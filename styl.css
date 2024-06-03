@@ -91,7 +91,6 @@ nav ul li{
     border-radius: 50px;
 }
  .timestamp{
-    font-weight: bold;
     padding: 0 25px;
     
 }
@@ -103,7 +102,7 @@ nav ul li{
 }
 
 .songitemcontainer{
-    margin-top: 74px;
+    margin-top: 75px;
 }
 .songInfo{
     position: absolute;
